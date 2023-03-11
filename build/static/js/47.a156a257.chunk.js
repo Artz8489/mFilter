@@ -1,0 +1,2 @@
+(this.webpackJsonpdemo1=this.webpackJsonpdemo1||[]).push([[47],{1373:function(e,t,n){"use strict";n.r(t);var s=n(0),c=n.n(s);t.default=function(){return c.a.createElement("h1",null,"TicketingSystem....!")}}}]);
+//# sourceMappingURL=47.a156a257.chunk.js.map

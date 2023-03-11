@@ -1,0 +1,1 @@
+{"version":3,"sources":["app/views/app/issues/index.jsx"],"names":["Issues"],"mappings":"kGAAA,2BAWeA,UATA,WAEX,OACI","file":"static/js/46.ed577cb3.chunk.js","sourcesContent":["import React from 'react';\r\n\r\nconst Issues = () => {\r\n\r\n    return (\r\n        <h1>\r\n            Issues....!\r\n        </h1>\r\n    );\r\n}\r\n\r\nexport default Issues;"],"sourceRoot":""}

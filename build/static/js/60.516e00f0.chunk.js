@@ -1,0 +1,1 @@
+(this.webpackJsonpdemo1=this.webpackJsonpdemo1||[]).push([[60],{1174:function(e,t,n){"use strict";n.r(t);var s=n(0),c=n.n(s);t.default=function(){return c.a.createElement("h1",null,"TicketingSystem....!")}}}]);

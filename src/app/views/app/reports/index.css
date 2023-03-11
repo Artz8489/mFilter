@@ -1,0 +1,9 @@
+/* tr.header-class {
+    background: #f4874f;
+    color: white;
+  
+} */
+.react-bootstrap-table{
+    overflow-y:scroll !important;
+    height: 300px;
+    }

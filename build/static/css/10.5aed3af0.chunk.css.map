@@ -1,0 +1,1 @@
+{"version":3,"sources":["ticket.css"],"names":[],"mappings":"AAAA,aACI,aAAc,CACd,WAAY,CACZ,wBACJ","file":"10.5aed3af0.chunk.css","sourcesContent":[".ticketmodel{\n    padding: 8.2px;\n    width: 230px;\n    border: 1px solid #E4E6EF;\n}\n"]}

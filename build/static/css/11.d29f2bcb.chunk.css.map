@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,gBACE,kBAAmB,CACnB,UACF,CACA,uBACE,2BAA6B,CAC7B,YACF","file":"11.d29f2bcb.chunk.css","sourcesContent":["tr.header-class {\r\n  background: #f4874f;\r\n  color: white;\r\n}\r\n.react-bootstrap-table {\r\n  overflow-y: scroll !important;\r\n  height: 50rem;\r\n}\r\n"]}
